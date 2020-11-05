@@ -26,8 +26,7 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 
 I'm group manager bot and Anti-spam. 
 
-Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+Activate Anti-spam protection in your Group by this command : /antispam on 
 
 Made with ❤love❤ in 🇮🇳India🇮🇳 by [Divyansh 🇮🇳](t.me/divyansh_choudhary). 
 
