@@ -29,14 +29,14 @@ I'm group manager bot and Anti-spam.
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Made with ❤ in 🇮🇳India🇮🇳 by [Divyansh 🇮🇳](t.me/divyansh_choudhary). 
+Made with ❤love❤ in 🇮🇳India🇮🇳 by [Divyansh 🇮🇳](t.me/divyansh_choudhary). 
 
+📣Join Updates [Channel📣](t.me/igroupzoid) 
+👥Join Support [Group👥](t.me/groupzoidsupport) 
+🤖Support [Bot🤖](t.me/groupzoidsupportbot) 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
-👥Join Support [Group👥](t.me/groupzoidsupport) 
-📣Join Updates [Channel📣](t.me/igroupzoid) 
-🤖Support [Bot🤖] (t.me/groupzoidsupportbot) 
  Add me to a group by clicking [here](http://t.me/GroupZoidBot?startgroup=true).
 """
 
